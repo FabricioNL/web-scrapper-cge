@@ -27,51 +27,52 @@ def create_dates(start, end):
 
     return date_strings
 
-start_date = '05/03/2024'
-end_date = '05/03/2024'
-dates_list = create_dates(start_date, end_date)
+begin_date = '28/02/2024'
+end_date = '06/03/2024'
+dates_list = create_dates(begin_date, end_date)
 grupos = []
 
 with webdriver.Firefox() as driver:
 
-    driver.get("https://www.cgesp.org/v3/alagamentos.jsp")
-    wait = WebDriverWait(driver, 10)
-    
-    #procura o elemento de input da data inicial
-    date_input = driver.find_element(By.XPATH, '//*[@id="campoBusca"]')
-    date_input.clear()
-    date_input.send_keys(start_date)
-    
-    #pressiona o botao de busca
-    date_input.send_keys(Keys.RETURN)
-    
-    time.sleep(3)
-    
-    #se encontrar "Não há registros de alagamentos para essa data." então pula para a próxima data
-    if driver.find_elements(By.CLASS_NAME, 'content'):
-        if driver.find_element(By.CLASS_NAME, 'content').text == "Não há registros de alagamentos para essa data.":
-            print("Não há registros de alagamentos para essa data.")
-        else:
-            for table in driver.find_elements(By.CLASS_NAME, 'tb-pontos-de-alagamentos'):
-                #transforma a tabela em texto 
-                infos = table.text
-                infos = infos.split('\n')
-    
-                print(infos)
-                
-                regiao = infos[0]
-                pontos = infos[1].split(' ')[0]
-    
-                for i in range(2, len(infos), 4):
-                # Extrair um grupo de 4 elementos
-                    grupo = infos[i:i+4]
-                    grupo.append(regiao)
-                    grupo.append(pontos)
-                    grupo.append(start_date)
-                    grupos.append(grupo)
-                    print(grupos)
-                    
-    print(grupos)
+    for start_date in dates_list:
+        
+        driver.get("https://www.cgesp.org/v3/alagamentos.jsp")
+        wait = WebDriverWait(driver, 10)
+
+        #procura o elemento de input da data inicial
+        date_input = driver.find_element(By.XPATH, '//*[@id="campoBusca"]')
+        date_input.clear()
+        date_input.send_keys(start_date)
+
+        #pressiona o botao de busca
+        date_input.send_keys(Keys.RETURN)
+
+        time.sleep(3)
+
+        #se encontrar "Não há registros de alagamentos para essa data." então pula para a próxima data
+        if driver.find_elements(By.CLASS_NAME, 'content'):
+            if driver.find_element(By.CLASS_NAME, 'content').text == "Não há registros de alagamentos para essa data.":
+                print("Não há registros de alagamentos para essa data.")
+            else:
+                for table in driver.find_elements(By.CLASS_NAME, 'tb-pontos-de-alagamentos'):
+                    #transforma a tabela em texto 
+                    infos = table.text
+                    infos = infos.split('\n')
+
+                    print(infos)
+
+                    regiao = infos[0]
+                    pontos = infos[1].split(' ')[0]
+
+                    for i in range(2, len(infos), 4):
+                    # Extrair um grupo de 4 elementos
+                        grupo = infos[i:i+4]
+                        grupo.append(regiao)
+                        grupo.append(pontos)
+                        grupo.append(start_date)
+                        grupos.append(grupo)
+                        #print(grupos)
+
     df = pd.DataFrame(grupos, columns=['Horario', 'Rua', 'Sentido', 'Referência', "Região", "Pontos", "Data"])
     df.to_excel('ALAGAMENTOS_CGE.xlsx', index=False)
 
