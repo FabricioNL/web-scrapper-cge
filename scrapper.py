@@ -92,6 +92,7 @@ for start_date in dates_list:
                 
                 # Obtendo ou inserindo a subprefeitura e obtendo seu ID
                 conn = sqlite3.connect('dados_climaticos.db')
+                
                 c = conn.cursor()
                 c.execute('''SELECT id FROM Subprefeitura WHERE nome = ?''', (regiao,))
                 result = c.fetchone()
