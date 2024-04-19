@@ -2,7 +2,7 @@ name: Daily Python Automation
 
 on:
   schedule:
-    - cron: '30 23 * * *'  # Executa todos os dias às 15h UTC
+    - cron: '52 23 * * *'  # Executa todos os dias às 15h UTC
 
 jobs:
   run_python_script:
