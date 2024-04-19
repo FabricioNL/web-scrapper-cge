@@ -48,7 +48,7 @@ def insert_alagamento(subprefeitura_id, data, quantidade_alagamentos, referencia
     conn.commit()
     conn.close()
 
-yesterday = datetime.now() - timedelta(days=2)
+yesterday = datetime.now() - timedelta(days=1)
 end_date = yesterday.strftime('%d/%m/%Y')
 
 dates_list = [end_date]
