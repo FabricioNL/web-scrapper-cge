@@ -1,0 +1,26 @@
+name: Daily Python Automation
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # Executa todos os dias às 15h UTC
+
+jobs:
+  run_python_script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  
+
+    - name: Instalar dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r ../requirements.txt  
+
+    - name: Executar script Python
+      run: python ../scrapper.py  
