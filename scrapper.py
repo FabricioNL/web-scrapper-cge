@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import re
 import sqlite3
 from datetime import datetime, timedelta
+import pytz
+
 
 # Função para criar uma lista de datas a partir de uma data inicial até uma data final
 def create_dates(start, end):
@@ -48,8 +50,10 @@ def insert_alagamento(subprefeitura_id, data, quantidade_alagamentos, referencia
     conn.commit()
     conn.close()
 
-yesterday = datetime.now() - timedelta(days=1)
-end_date = yesterday.strftime('%d/%m/%Y')
+brt = pytz.timezone('America/Sao_Paulo')
+
+yesterday_brt = datetime.now(brt) - timedelta(days=1)
+end_date = yesterday_brt.strftime('%d/%m/%Y')
 
 dates_list = [end_date]
 
