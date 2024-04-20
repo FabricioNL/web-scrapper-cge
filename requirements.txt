@@ -3,6 +3,7 @@ bs4==0.0.2
 certifi==2024.2.2
 charset-normalizer==3.3.2
 idna==3.7
+pytz==2024.1
 requests==2.31.0
 soupsieve==2.5
 urllib3==2.2.1
