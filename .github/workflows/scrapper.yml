@@ -2,7 +2,7 @@ name: CGE Scrapper Automation
 
 on:
   schedule:
-    - cron: '*/8 0 * * *'  # Executa todos os dias às 15h UTC
+    - cron: '0 12 * * *'  # Executa todos os dias às 15h UTC
   workflow_dispatch:
 
 env:
