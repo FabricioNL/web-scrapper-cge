@@ -1,0 +1,27 @@
+name: CGE Scrapper Automation
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Executa todos os dias às 15h UTC
+  workflow_dispatch:
+
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+jobs:
+  run_python_script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  
+
+    - name: Instalar dependências
+      run: pip install -r requirements.txt
+    - name: Executar script Python
+      run: python scrapper.py
