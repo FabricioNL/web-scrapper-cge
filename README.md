@@ -49,12 +49,10 @@ git clone https://github.com/seu_usuario/nome_do_repositorio.git
 2. Instale as dependências:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
 3. Execute o script principal:
 ```bash
-Copy code
 python main.py
 ```
