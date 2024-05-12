@@ -54,5 +54,7 @@ pip install -r requirements.txt
 
 3. Execute o script principal:
 ```bash
-python main.py
+python scrapper.py
 ```
+
+Isso irá executar o script scrapper.py, que atualiza os dados do projeto. Se desejar, você pode agendar a execução deste script em seu próprio ambiente configurando um cronjob para executá-lo periodicamente.
