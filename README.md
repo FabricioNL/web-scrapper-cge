@@ -1,8 +1,16 @@
 # Webscrapper de Dados de Alagamento do CGE SP
 
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/FabricioNL/web-scrapper-cge)
 ![GitHub](https://img.shields.io/github/license/FabricioNL/web-scrapper-cge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/FabricioNL/web-scrapper-cge)
+
+
+[<img src="https://github.com/FabricioNL.png" width="60px;"/><br /><sub><a href="https://github.com/FabricioNL">FabricioNL</a></sub>](https://github.com/FabricioNL/FabricioNL)
+
+[<img src="https://github.com/jeansilas.png" width="60px;"/><br /><sub><a href="https://github.com/jeansilas">Jean Silas</a></sub>](https://github.com/jeansilas/jeansilas)
+
+[<img src="https://github.com/guifl2001.png" width="60px;"/><br /><sub><a href="https://github.com/guifl2001">Guilherme Fontana</a></sub>](https://github.com/guifl2001/guifl2001)
 
 Este é um projeto de webscrapper para coletar e armazenar dados de alagamento do Centro de Gerenciamento de Emergências (CGE) de São Paulo. Os dados históricos são extraídos de uma tabela e atualizados diariamente por meio de um script executado pelo GitHub Actions.
 
