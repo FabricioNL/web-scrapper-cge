@@ -23,5 +23,14 @@ jobs:
 
     - name: Instalar dependências
       run: pip install -r requirements.txt
+
     - name: Executar script Python
       run: python scrapper.py
+
+    - name: Commit e push das alterações
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add .
+        git commit -m "Atualização diaria automática pelo GitHub Actions"
+        git push
