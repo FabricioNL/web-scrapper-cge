@@ -58,3 +58,5 @@ Buscando dados para a data 30/05/2024.
 Nao ha registros de alagamentos para a data 30/05/2024.
 Buscando dados para a data 31/05/2024.
 Nao ha registros de alagamentos para a data 31/05/2024.
+Buscando dados para a data 01/06/2024.
+Nao ha registros de alagamentos para a data 01/06/2024.
