@@ -78,3 +78,5 @@ Buscando dados para a data 09/06/2024.
 Nao ha registros de alagamentos para a data 09/06/2024.
 Buscando dados para a data 10/06/2024.
 Nao ha registros de alagamentos para a data 10/06/2024.
+Buscando dados para a data 11/06/2024.
+Nao ha registros de alagamentos para a data 11/06/2024.
