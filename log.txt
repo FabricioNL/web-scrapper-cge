@@ -94,3 +94,5 @@ Buscando dados para a data 17/06/2024.
 Nao ha registros de alagamentos para a data 17/06/2024.
 Buscando dados para a data 18/06/2024.
 Nao ha registros de alagamentos para a data 18/06/2024.
+Buscando dados para a data 19/06/2024.
+Nao ha registros de alagamentos para a data 19/06/2024.
