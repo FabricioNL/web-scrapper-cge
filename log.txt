@@ -106,3 +106,5 @@ Buscando dados para a data 23/06/2024.
 Nao ha registros de alagamentos para a data 23/06/2024.
 Buscando dados para a data 24/06/2024.
 Nao ha registros de alagamentos para a data 24/06/2024.
+Buscando dados para a data 25/06/2024.
+Erro ao acessar a página. Código de status 403.
