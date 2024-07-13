@@ -142,3 +142,5 @@ Buscando dados para a data 10/07/2024.
 Nao ha registros de alagamentos para a data 10/07/2024.
 Buscando dados para a data 11/07/2024.
 Nao ha registros de alagamentos para a data 11/07/2024.
+Buscando dados para a data 12/07/2024.
+Nao ha registros de alagamentos para a data 12/07/2024.
