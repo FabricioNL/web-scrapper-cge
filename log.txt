@@ -287,3 +287,5 @@ Buscando dados para a data 19/09/2024.
 Nao ha registros de alagamentos para a data 19/09/2024.
 Buscando dados para a data 20/09/2024.
 Nao ha registros de alagamentos para a data 20/09/2024.
+Buscando dados para a data 21/09/2024.
+Nao ha registros de alagamentos para a data 21/09/2024.
