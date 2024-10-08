@@ -319,3 +319,5 @@ Buscando dados para a data 05/10/2024.
 Nao ha registros de alagamentos para a data 05/10/2024.
 Buscando dados para a data 06/10/2024.
 Nao ha registros de alagamentos para a data 06/10/2024.
+Buscando dados para a data 07/10/2024.
+Nao ha registros de alagamentos para a data 07/10/2024.
