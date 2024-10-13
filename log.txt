@@ -334,3 +334,6 @@ Dados inseridos para a subprefeitura Sé.
 Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Lapa.
 Dados inseridos para a subprefeitura Itaquera.
+Buscando dados para a data 12/10/2024.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Santo Amaro.
