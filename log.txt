@@ -404,3 +404,5 @@ Dados inseridos para a subprefeitura Lapa.
 Dados inseridos para a subprefeitura Itaquera.
 Dados inseridos para a subprefeitura Itaquera.
 Dados inseridos para a subprefeitura Mooca.
+Buscando dados para a data 26/10/2024.
+Nao ha registros de alagamentos para a data 26/10/2024.
