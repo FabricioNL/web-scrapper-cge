@@ -418,3 +418,17 @@ Buscando dados para a data 31/10/2024.
 Nao ha registros de alagamentos para a data 31/10/2024.
 Buscando dados para a data 01/11/2024.
 Nao ha registros de alagamentos para a data 01/11/2024.
+Buscando dados para a data 02/11/2024.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Vila Mariana.
