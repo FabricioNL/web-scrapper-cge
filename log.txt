@@ -434,3 +434,6 @@ Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Vila Mariana.
 Buscando dados para a data 03/11/2024.
 Nao ha registros de alagamentos para a data 03/11/2024.
+Buscando dados para a data 04/11/2024.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura São Miguel Paulista.
