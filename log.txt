@@ -502,3 +502,5 @@ Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 09/11/2024.
+Nao ha registros de alagamentos para a data 09/11/2024.
