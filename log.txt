@@ -522,3 +522,5 @@ Buscando dados para a data 17/11/2024.
 Nao ha registros de alagamentos para a data 17/11/2024.
 Buscando dados para a data 18/11/2024.
 Nao ha registros de alagamentos para a data 18/11/2024.
+Buscando dados para a data 19/11/2024.
+Nao ha registros de alagamentos para a data 19/11/2024.
