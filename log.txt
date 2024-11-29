@@ -540,3 +540,16 @@ Buscando dados para a data 26/11/2024.
 Nao ha registros de alagamentos para a data 26/11/2024.
 Buscando dados para a data 27/11/2024.
 Nao ha registros de alagamentos para a data 27/11/2024.
+Buscando dados para a data 28/11/2024.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura Capela do Socorro.
+Dados inseridos para a subprefeitura Capela do Socorro.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Jabaquara.
