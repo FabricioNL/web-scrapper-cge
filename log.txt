@@ -553,3 +553,5 @@ Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Jabaquara.
+Buscando dados para a data 29/11/2024.
+Nao ha registros de alagamentos para a data 29/11/2024.
