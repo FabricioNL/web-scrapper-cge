@@ -561,3 +561,10 @@ Buscando dados para a data 01/12/2024.
 Nao ha registros de alagamentos para a data 01/12/2024.
 Buscando dados para a data 02/12/2024.
 Nao ha registros de alagamentos para a data 02/12/2024.
+Buscando dados para a data 03/12/2024.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Vila Mariana.
+Dados inseridos para a subprefeitura Vila Mariana.
