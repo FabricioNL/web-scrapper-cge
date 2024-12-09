@@ -589,3 +589,5 @@ Buscando dados para a data 06/12/2024.
 Nao ha registros de alagamentos para a data 06/12/2024.
 Buscando dados para a data 07/12/2024.
 Nao ha registros de alagamentos para a data 07/12/2024.
+Buscando dados para a data 08/12/2024.
+Nao ha registros de alagamentos para a data 08/12/2024.
