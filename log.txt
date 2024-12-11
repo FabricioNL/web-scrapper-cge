@@ -593,3 +593,7 @@ Buscando dados para a data 08/12/2024.
 Nao ha registros de alagamentos para a data 08/12/2024.
 Buscando dados para a data 09/12/2024.
 Nao ha registros de alagamentos para a data 09/12/2024.
+Buscando dados para a data 10/12/2024.
+Dados inseridos para a subprefeitura São Mateus.
+Dados inseridos para a subprefeitura São Mateus.
+Dados inseridos para a subprefeitura Santo Amaro.
