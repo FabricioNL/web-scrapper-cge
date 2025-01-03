@@ -703,3 +703,11 @@ Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Santo Amaro.
 Buscando dados para a data 01/01/2025.
 Nao ha registros de alagamentos para a data 01/01/2025.
+Buscando dados para a data 02/01/2025.
+Dados inseridos para a subprefeitura Vila Maria/ Vila Guilherme.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Penha.
+Dados inseridos para a subprefeitura Penha.
+Dados inseridos para a subprefeitura Vila Prudente.
+Dados inseridos para a subprefeitura Vila Prudente.
