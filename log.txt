@@ -711,3 +711,5 @@ Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Vila Prudente.
 Dados inseridos para a subprefeitura Vila Prudente.
+Buscando dados para a data 03/01/2025.
+Nao ha registros de alagamentos para a data 03/01/2025.
