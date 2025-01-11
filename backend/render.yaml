@@ -3,6 +3,6 @@ services:
     name: backend-fastapi
     env: python
     buildCommand: ""
-    startCommand: gunicorn -w 4 -k uvicorn.workers.UvicornWorker app.main:app
+    startCommand: gunicorn -w 4 -k uvicorn.workers.UvicornWorker app.main:app --chdir /backend
     region: us
     plan: free

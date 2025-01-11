@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .routers import floods
+from app.routers import floods
 
 app = FastAPI()
 
