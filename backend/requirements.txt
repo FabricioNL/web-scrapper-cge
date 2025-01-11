@@ -45,3 +45,5 @@ watchfiles==1.0.3
 websockets==10.4
 wheel==0.41.2
 zipp==3.18.1
+gunicorn==23.0.0
+
