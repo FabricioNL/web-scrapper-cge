@@ -733,3 +733,5 @@ Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Penha.
 Buscando dados para a data 09/01/2025.
 Nao ha registros de alagamentos para a data 09/01/2025.
+Buscando dados para a data 09/01/2025.
+Nao ha registros de alagamentos para a data 09/01/2025.

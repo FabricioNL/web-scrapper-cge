@@ -45,7 +45,7 @@ def insert_chuva(subprefeitura_id, data, quantidade_mm):
     conn.close()
 
 def insert_alagamento(subprefeitura_nome, data, quantidade_alagamentos, referencia, sentido, rua, horario_inicio, horario_fim):
-    conn = sqlite3.connect('dados_climaticos.db')
+    conn = sqlite3.connect('backend/dados_climaticos.db')
     c = conn.cursor()
     # Verifica se a subprefeitura já existe na tabela Subprefeitura
     c.execute('''SELECT id FROM Subprefeitura WHERE nome = ?''', (subprefeitura_nome,))
