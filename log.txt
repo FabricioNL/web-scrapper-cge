@@ -745,3 +745,5 @@ Buscando dados para a data 12/01/2025.
 Nao ha registros de alagamentos para a data 12/01/2025.
 Buscando dados para a data 13/01/2025.
 Nao ha registros de alagamentos para a data 13/01/2025.
+Buscando dados para a data 14/01/2025.
+Nao ha registros de alagamentos para a data 14/01/2025.
