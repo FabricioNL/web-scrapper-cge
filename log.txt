@@ -749,3 +749,24 @@ Buscando dados para a data 14/01/2025.
 Nao ha registros de alagamentos para a data 14/01/2025.
 Buscando dados para a data 15/01/2025.
 Nao ha registros de alagamentos para a data 15/01/2025.
+Buscando dados para a data 16/01/2025.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Vila Mariana.
