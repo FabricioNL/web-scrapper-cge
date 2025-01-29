@@ -845,3 +845,7 @@ Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Vila Mariana.
 Buscando dados para a data 27/01/2025.
 Dados inseridos para a subprefeitura Sé.
+Buscando dados para a data 28/01/2025.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Itaquera.
