@@ -856,3 +856,7 @@ Dados inseridos para a subprefeitura Sé.
 Dados inseridos para a subprefeitura Sé.
 Dados inseridos para a subprefeitura Lapa.
 Dados inseridos para a subprefeitura Itaquera.
+Buscando dados para a data 30/01/2025.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Parelheiros.
