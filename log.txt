@@ -982,3 +982,5 @@ Dados inseridos para a subprefeitura São Miguel Paulista.
 Dados inseridos para a subprefeitura São Miguel Paulista.
 Dados inseridos para a subprefeitura São Miguel Paulista.
 Dados inseridos para a subprefeitura São Miguel Paulista.
+Buscando dados para a data 05/02/2025.
+Nao ha registros de alagamentos para a data 05/02/2025.
