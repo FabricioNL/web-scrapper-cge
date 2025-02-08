@@ -1007,3 +1007,5 @@ Dados inseridos para a subprefeitura Mooca.
 Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Campo Limpo.
+Buscando dados para a data 07/02/2025.
+Nao ha registros de alagamentos para a data 07/02/2025.
