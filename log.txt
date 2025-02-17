@@ -1051,3 +1051,5 @@ Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
 Buscando dados para a data 15/02/2025.
 Nao ha registros de alagamentos para a data 15/02/2025.
+Buscando dados para a data 16/02/2025.
+Nao ha registros de alagamentos para a data 16/02/2025.
