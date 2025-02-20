@@ -1083,3 +1083,5 @@ Dados inseridos para a subprefeitura Ipiranga.
 Dados já inseridos para a subprefeitura Ipiranga.
 Dados inseridos para a subprefeitura Ipiranga.
 Dados inseridos para a subprefeitura Ipiranga.
+Buscando dados para a data 19/02/2025.
+Nao ha registros de alagamentos para a data 19/02/2025.
