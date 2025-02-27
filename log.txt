@@ -1097,3 +1097,6 @@ Buscando dados para a data 24/02/2025.
 Nao ha registros de alagamentos para a data 24/02/2025.
 Buscando dados para a data 25/02/2025.
 Nao ha registros de alagamentos para a data 25/02/2025.
+Buscando dados para a data 26/02/2025.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Lapa.
