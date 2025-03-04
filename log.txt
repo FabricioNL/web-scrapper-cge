@@ -1108,3 +1108,5 @@ Buscando dados para a data 01/03/2025.
 Erro ao acessar a página. Código de status 502.
 Buscando dados para a data 02/03/2025.
 Nao ha registros de alagamentos para a data 02/03/2025.
+Buscando dados para a data 03/03/2025.
+Nao ha registros de alagamentos para a data 03/03/2025.
