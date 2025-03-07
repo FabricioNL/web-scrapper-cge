@@ -1114,3 +1114,5 @@ Buscando dados para a data 04/03/2025.
 Nao ha registros de alagamentos para a data 04/03/2025.
 Buscando dados para a data 05/03/2025.
 Nao ha registros de alagamentos para a data 05/03/2025.
+Buscando dados para a data 06/03/2025.
+Nao ha registros de alagamentos para a data 06/03/2025.
