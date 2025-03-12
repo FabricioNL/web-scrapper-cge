@@ -1124,3 +1124,8 @@ Buscando dados para a data 09/03/2025.
 Nao ha registros de alagamentos para a data 09/03/2025.
 Buscando dados para a data 10/03/2025.
 Nao ha registros de alagamentos para a data 10/03/2025.
+Buscando dados para a data 11/03/2025.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Itaim Paulista.
