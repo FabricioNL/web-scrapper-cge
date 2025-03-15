@@ -1,9 +1,9 @@
 from sqlalchemy import Column, Integer, String, Date, ForeignKey, TypeDecorator, DateTime
 from app.database import Base
+#from database import Base
 from pydantic import BaseModel
 from sqlalchemy.orm import relationship
 from datetime import date, datetime
-
 
 class CustomDate(TypeDecorator):
     impl = String  # Armazena a data como string no banco

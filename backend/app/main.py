@@ -1,8 +1,21 @@
 from fastapi import FastAPI
-from app.routers import floods
+from app.routers import floods, subprefecture
 from fastapi.middleware.cors import CORSMiddleware
 
-app = FastAPI()
+app = FastAPI(
+    title="Flood Data API",
+    description="API para consulta de dados de alagamentos e subprefeituras.",
+    version="1.0.0",
+    contact={
+        "name": "Equipe Flood Data",
+        "email": "fabricionl@al.insper.edu.br",
+        "url": "https://flooddata.com",
+    },
+    license_info={
+        "name": "MIT",
+        "url": "https://opensource.org/licenses/MIT",
+    },
+)
 
 # Configuração de CORS
 app.add_middleware(
@@ -13,8 +26,16 @@ app.add_middleware(
     allow_headers=["*"],  # Permite todos os cabeçalhos.
 )
 
+# Inclusão dos routers
 app.include_router(floods.router, prefix="/api", tags=["floods"])
+app.include_router(subprefecture.router, prefix="/api", tags=["subprefecture"])
+
+
+@app.get("/is_alive")
+def is_alive():
+    return {"message": "alive"}
 
 @app.get("/")
 def read_root():
     return {"message": "Welcome to the Flood Data API"}
+
