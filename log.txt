@@ -1202,3 +1202,5 @@ Dados inseridos para a subprefeitura Mooca.
 Dados inseridos para a subprefeitura Ipiranga.
 Buscando dados para a data 24/03/2025.
 Nao ha registros de alagamentos para a data 24/03/2025.
+Buscando dados para a data 25/03/2025.
+Nao ha registros de alagamentos para a data 25/03/2025.
