@@ -1213,3 +1213,5 @@ Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Itaim Paulista.
 Buscando dados para a data 29/03/2025.
 Nao ha registros de alagamentos para a data 29/03/2025.
+Buscando dados para a data 30/03/2025.
+Nao ha registros de alagamentos para a data 30/03/2025.
