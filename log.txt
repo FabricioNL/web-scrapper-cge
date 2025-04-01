@@ -1215,3 +1215,11 @@ Buscando dados para a data 29/03/2025.
 Nao ha registros de alagamentos para a data 29/03/2025.
 Buscando dados para a data 30/03/2025.
 Nao ha registros de alagamentos para a data 30/03/2025.
+Buscando dados para a data 31/03/2025.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Vila Prudente.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Ipiranga.
