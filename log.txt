@@ -1229,3 +1229,11 @@ Buscando dados para a data 02/04/2025.
 Nao ha registros de alagamentos para a data 02/04/2025.
 Buscando dados para a data 03/04/2025.
 Dados inseridos para a subprefeitura São Mateus.
+Buscando dados para a data 04/04/2025.
+Dados inseridos para a subprefeitura Jaçanã/ Tremembé.
+Dados inseridos para a subprefeitura Jaçanã/ Tremembé.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
