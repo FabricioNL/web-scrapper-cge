@@ -1239,3 +1239,5 @@ Dados inseridos para a subprefeitura Sé.
 Dados inseridos para a subprefeitura Sé.
 Buscando dados para a data 05/04/2025.
 Nao ha registros de alagamentos para a data 05/04/2025.
+Buscando dados para a data 06/04/2025.
+Nao ha registros de alagamentos para a data 06/04/2025.
