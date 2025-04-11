@@ -1247,3 +1247,11 @@ Buscando dados para a data 08/04/2025.
 Nao ha registros de alagamentos para a data 08/04/2025.
 Buscando dados para a data 09/04/2025.
 Nao ha registros de alagamentos para a data 09/04/2025.
+Buscando dados para a data 10/04/2025.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura M'Boi Mirim.
