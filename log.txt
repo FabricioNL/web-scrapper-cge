@@ -1261,3 +1261,13 @@ Buscando dados para a data 12/04/2025.
 Nao ha registros de alagamentos para a data 12/04/2025.
 Buscando dados para a data 13/04/2025.
 Nao ha registros de alagamentos para a data 13/04/2025.
+Buscando dados para a data 14/04/2025.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Guaianases.
+Dados inseridos para a subprefeitura Itaim Paulista.
