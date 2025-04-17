@@ -1273,3 +1273,5 @@ Dados inseridos para a subprefeitura Guaianases.
 Dados inseridos para a subprefeitura Itaim Paulista.
 Buscando dados para a data 15/04/2025.
 Nao ha registros de alagamentos para a data 15/04/2025.
+Buscando dados para a data 16/04/2025.
+Nao ha registros de alagamentos para a data 16/04/2025.
