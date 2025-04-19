@@ -1277,3 +1277,5 @@ Buscando dados para a data 16/04/2025.
 Nao ha registros de alagamentos para a data 16/04/2025.
 Buscando dados para a data 17/04/2025.
 Nao ha registros de alagamentos para a data 17/04/2025.
+Buscando dados para a data 18/04/2025.
+Dados inseridos para a subprefeitura São Mateus.
