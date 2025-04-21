@@ -1281,3 +1281,5 @@ Buscando dados para a data 18/04/2025.
 Dados inseridos para a subprefeitura São Mateus.
 Buscando dados para a data 19/04/2025.
 Dados inseridos para a subprefeitura Lapa.
+Buscando dados para a data 20/04/2025.
+Dados inseridos para a subprefeitura Mooca.
