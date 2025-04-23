@@ -1285,3 +1285,5 @@ Buscando dados para a data 20/04/2025.
 Dados inseridos para a subprefeitura Mooca.
 Buscando dados para a data 21/04/2025.
 Nao ha registros de alagamentos para a data 21/04/2025.
+Buscando dados para a data 22/04/2025.
+Nao ha registros de alagamentos para a data 22/04/2025.
