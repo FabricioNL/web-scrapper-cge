@@ -1303,3 +1303,5 @@ Buscando dados para a data 29/04/2025.
 Nao ha registros de alagamentos para a data 29/04/2025.
 Buscando dados para a data 30/04/2025.
 Nao ha registros de alagamentos para a data 30/04/2025.
+Buscando dados para a data 01/05/2025.
+Nao ha registros de alagamentos para a data 01/05/2025.
