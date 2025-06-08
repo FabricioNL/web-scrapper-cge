@@ -1377,3 +1377,5 @@ Buscando dados para a data 05/06/2025.
 Dados inseridos para a subprefeitura Casa Verde.
 Buscando dados para a data 06/06/2025.
 Nao ha registros de alagamentos para a data 06/06/2025.
+Buscando dados para a data 07/06/2025.
+Nao ha registros de alagamentos para a data 07/06/2025.
