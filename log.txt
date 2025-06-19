@@ -1399,3 +1399,5 @@ Buscando dados para a data 16/06/2025.
 Nao ha registros de alagamentos para a data 16/06/2025.
 Buscando dados para a data 17/06/2025.
 Nao ha registros de alagamentos para a data 17/06/2025.
+Buscando dados para a data 18/06/2025.
+Nao ha registros de alagamentos para a data 18/06/2025.
