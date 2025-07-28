@@ -1477,3 +1477,5 @@ Buscando dados para a data 25/07/2025.
 Nao ha registros de alagamentos para a data 25/07/2025.
 Buscando dados para a data 26/07/2025.
 Nao ha registros de alagamentos para a data 26/07/2025.
+Buscando dados para a data 27/07/2025.
+Nao ha registros de alagamentos para a data 27/07/2025.
