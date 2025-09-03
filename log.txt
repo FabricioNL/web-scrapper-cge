@@ -1551,3 +1551,5 @@ Buscando dados para a data 31/08/2025.
 Nao ha registros de alagamentos para a data 31/08/2025.
 Buscando dados para a data 01/09/2025.
 Nao ha registros de alagamentos para a data 01/09/2025.
+Buscando dados para a data 02/09/2025.
+Nao ha registros de alagamentos para a data 02/09/2025.
