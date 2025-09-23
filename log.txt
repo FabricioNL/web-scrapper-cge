@@ -1591,3 +1591,28 @@ Buscando dados para a data 20/09/2025.
 Nao ha registros de alagamentos para a data 20/09/2025.
 Buscando dados para a data 21/09/2025.
 Nao ha registros de alagamentos para a data 21/09/2025.
+Buscando dados para a data 22/09/2025.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura São Mateus.
+Dados inseridos para a subprefeitura São Mateus.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura Capela do Socorro.
+Dados inseridos para a subprefeitura Capela do Socorro.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Vila Mariana.
+Dados inseridos para a subprefeitura Vila Mariana.
+Dados inseridos para a subprefeitura Vila Mariana.
+Dados inseridos para a subprefeitura Vila Mariana.
