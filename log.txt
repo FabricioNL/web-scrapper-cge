@@ -1670,3 +1670,5 @@ Buscando dados para a data 12/10/2025.
 Nao ha registros de alagamentos para a data 12/10/2025.
 Buscando dados para a data 13/10/2025.
 Nao ha registros de alagamentos para a data 13/10/2025.
+Buscando dados para a data 14/10/2025.
+Nao ha registros de alagamentos para a data 14/10/2025.
