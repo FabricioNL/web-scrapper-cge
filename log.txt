@@ -1681,3 +1681,5 @@ Nao ha registros de alagamentos para a data 17/10/2025.
 Buscando dados para a data 18/10/2025.
 Dados inseridos para a subprefeitura Freguesia do Ó.
 Dados inseridos para a subprefeitura Lapa.
+Buscando dados para a data 19/10/2025.
+Nao ha registros de alagamentos para a data 19/10/2025.
