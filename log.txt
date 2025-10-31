@@ -1717,3 +1717,5 @@ Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 30/10/2025.
+Nao ha registros de alagamentos para a data 30/10/2025.
