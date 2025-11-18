@@ -1754,3 +1754,9 @@ Buscando dados para a data 15/11/2025.
 Nao ha registros de alagamentos para a data 15/11/2025.
 Buscando dados para a data 16/11/2025.
 Nao ha registros de alagamentos para a data 16/11/2025.
+Buscando dados para a data 17/11/2025.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Santo Amaro.
