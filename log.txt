@@ -1770,3 +1770,5 @@ Buscando dados para a data 21/11/2025.
 Nao ha registros de alagamentos para a data 21/11/2025.
 Buscando dados para a data 22/11/2025.
 Nao ha registros de alagamentos para a data 22/11/2025.
+Buscando dados para a data 23/11/2025.
+Nao ha registros de alagamentos para a data 23/11/2025.
