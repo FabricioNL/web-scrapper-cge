@@ -1798,3 +1798,5 @@ Buscando dados para a data 05/12/2025.
 Nao ha registros de alagamentos para a data 05/12/2025.
 Buscando dados para a data 06/12/2025.
 Nao ha registros de alagamentos para a data 06/12/2025.
+Buscando dados para a data 07/12/2025.
+Nao ha registros de alagamentos para a data 07/12/2025.
