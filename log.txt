@@ -1810,3 +1810,6 @@ Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Ipiranga.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 09/12/2025.
+Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
+Dados inseridos para a subprefeitura Vila Mariana.
