@@ -1813,3 +1813,5 @@ Dados inseridos para a subprefeitura Vila Mariana.
 Buscando dados para a data 09/12/2025.
 Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 10/12/2025.
+Nao ha registros de alagamentos para a data 10/12/2025.
