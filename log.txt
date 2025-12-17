@@ -1825,3 +1825,13 @@ Buscando dados para a data 14/12/2025.
 Nao ha registros de alagamentos para a data 14/12/2025.
 Buscando dados para a data 15/12/2025.
 Nao ha registros de alagamentos para a data 15/12/2025.
+Buscando dados para a data 16/12/2025.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Vila Mariana.
