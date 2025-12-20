@@ -1839,3 +1839,5 @@ Buscando dados para a data 17/12/2025.
 Nao ha registros de alagamentos para a data 17/12/2025.
 Buscando dados para a data 18/12/2025.
 Nao ha registros de alagamentos para a data 18/12/2025.
+Buscando dados para a data 19/12/2025.
+Nao ha registros de alagamentos para a data 19/12/2025.
