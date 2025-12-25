@@ -1849,3 +1849,5 @@ Buscando dados para a data 22/12/2025.
 Nao ha registros de alagamentos para a data 22/12/2025.
 Buscando dados para a data 23/12/2025.
 Nao ha registros de alagamentos para a data 23/12/2025.
+Buscando dados para a data 24/12/2025.
+Nao ha registros de alagamentos para a data 24/12/2025.
