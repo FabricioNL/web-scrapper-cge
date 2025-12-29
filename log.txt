@@ -1861,3 +1861,5 @@ Dados inseridos para a subprefeitura Pirituba/Jaraguá.
 Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Ipiranga.
+Buscando dados para a data 28/12/2025.
+Nao ha registros de alagamentos para a data 28/12/2025.
