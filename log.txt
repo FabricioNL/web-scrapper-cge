@@ -1877,3 +1877,5 @@ Dados inseridos para a subprefeitura Lapa.
 Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Mooca.
+Buscando dados para a data 31/12/2025.
+Nao ha registros de alagamentos para a data 31/12/2025.
