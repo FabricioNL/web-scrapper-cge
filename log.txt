@@ -1944,3 +1944,10 @@ Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 09/01/2026.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura São Mateus.
