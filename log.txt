@@ -2002,3 +2002,9 @@ Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Capela do Socorro.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 15/01/2026.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Sapopemba.
