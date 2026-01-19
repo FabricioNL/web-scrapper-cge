@@ -2038,3 +2038,5 @@ Dados inseridos para a subprefeitura Ipiranga.
 Dados inseridos para a subprefeitura Ipiranga.
 Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 18/01/2026.
+Nao ha registros de alagamentos para a data 18/01/2026.
