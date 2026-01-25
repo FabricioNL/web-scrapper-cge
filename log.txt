@@ -2050,3 +2050,5 @@ Buscando dados para a data 22/01/2026.
 Nao ha registros de alagamentos para a data 22/01/2026.
 Buscando dados para a data 23/01/2026.
 Nao ha registros de alagamentos para a data 23/01/2026.
+Buscando dados para a data 24/01/2026.
+Nao ha registros de alagamentos para a data 24/01/2026.
