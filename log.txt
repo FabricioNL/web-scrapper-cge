@@ -2086,3 +2086,8 @@ Dados inseridos para a subprefeitura Capela do Socorro.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Ipiranga.
+Buscando dados para a data 28/01/2026.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Itaim Paulista.
