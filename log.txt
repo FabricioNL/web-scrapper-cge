@@ -2091,3 +2091,11 @@ Dados inseridos para a subprefeitura Itaim Paulista.
 Dados inseridos para a subprefeitura Itaim Paulista.
 Dados inseridos para a subprefeitura Itaim Paulista.
 Dados inseridos para a subprefeitura Itaim Paulista.
+Buscando dados para a data 29/01/2026.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Cidade Ademar.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Vila Mariana.
