@@ -2099,3 +2099,7 @@ Dados inseridos para a subprefeitura Cidade Ademar.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 30/01/2026.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
