@@ -2103,3 +2103,5 @@ Buscando dados para a data 30/01/2026.
 Dados inseridos para a subprefeitura Santana.
 Dados inseridos para a subprefeitura Lapa.
 Dados inseridos para a subprefeitura Lapa.
+Buscando dados para a data 31/01/2026.
+Nao ha registros de alagamentos para a data 31/01/2026.
