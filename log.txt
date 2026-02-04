@@ -2129,3 +2129,12 @@ Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
 Buscando dados para a data 02/02/2026.
 Nao ha registros de alagamentos para a data 02/02/2026.
+Buscando dados para a data 03/02/2026.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura São Miguel Paulista.
+Dados inseridos para a subprefeitura São Miguel Paulista.
+Dados inseridos para a subprefeitura Vila Mariana.
