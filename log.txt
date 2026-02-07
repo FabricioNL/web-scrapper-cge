@@ -2143,3 +2143,5 @@ Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura São Mateus.
 Buscando dados para a data 05/02/2026.
 Nao ha registros de alagamentos para a data 05/02/2026.
+Buscando dados para a data 06/02/2026.
+Nao ha registros de alagamentos para a data 06/02/2026.
