@@ -2145,3 +2145,10 @@ Buscando dados para a data 05/02/2026.
 Nao ha registros de alagamentos para a data 05/02/2026.
 Buscando dados para a data 06/02/2026.
 Nao ha registros de alagamentos para a data 06/02/2026.
+Buscando dados para a data 07/02/2026.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Vila Mariana.
+Dados inseridos para a subprefeitura Vila Mariana.
