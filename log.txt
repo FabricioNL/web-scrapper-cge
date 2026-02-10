@@ -2154,3 +2154,9 @@ Dados inseridos para a subprefeitura Vila Mariana.
 Dados inseridos para a subprefeitura Vila Mariana.
 Buscando dados para a data 08/02/2026.
 Nao ha registros de alagamentos para a data 08/02/2026.
+Buscando dados para a data 09/02/2026.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Campo Limpo.
