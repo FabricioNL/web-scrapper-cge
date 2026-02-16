@@ -2170,3 +2170,5 @@ Buscando dados para a data 13/02/2026.
 Dados inseridos para a subprefeitura Butantã.
 Buscando dados para a data 14/02/2026.
 Nao ha registros de alagamentos para a data 14/02/2026.
+Buscando dados para a data 15/02/2026.
+Nao ha registros de alagamentos para a data 15/02/2026.
