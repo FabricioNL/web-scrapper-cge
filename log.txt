@@ -2172,3 +2172,11 @@ Buscando dados para a data 14/02/2026.
 Nao ha registros de alagamentos para a data 14/02/2026.
 Buscando dados para a data 15/02/2026.
 Nao ha registros de alagamentos para a data 15/02/2026.
+Buscando dados para a data 16/02/2026.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Lapa.
