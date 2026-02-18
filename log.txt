@@ -2180,3 +2180,8 @@ Dados inseridos para a subprefeitura Santana.
 Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Lapa.
+Buscando dados para a data 17/02/2026.
+Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
+Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
+Dados inseridos para a subprefeitura Penha.
+Dados inseridos para a subprefeitura Penha.
