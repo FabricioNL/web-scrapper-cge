@@ -2185,3 +2185,5 @@ Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
 Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
 Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Penha.
+Buscando dados para a data 18/02/2026.
+Dados inseridos para a subprefeitura Lapa.
