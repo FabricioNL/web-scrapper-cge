@@ -2187,3 +2187,5 @@ Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Penha.
 Buscando dados para a data 18/02/2026.
 Dados inseridos para a subprefeitura Lapa.
+Buscando dados para a data 19/02/2026.
+Nao ha registros de alagamentos para a data 19/02/2026.
