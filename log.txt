@@ -2206,3 +2206,10 @@ Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Butantã.
 Dados inseridos para a subprefeitura Mooca.
 Dados inseridos para a subprefeitura Mooca.
+Buscando dados para a data 25/02/2026.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura Vila Mariana.
