@@ -2213,3 +2213,5 @@ Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 26/02/2026.
+Nao ha registros de alagamentos para a data 26/02/2026.
