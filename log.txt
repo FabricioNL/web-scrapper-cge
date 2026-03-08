@@ -2241,3 +2241,6 @@ Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Campo Limpo.
 Dados inseridos para a subprefeitura Santo Amaro.
+Buscando dados para a data 07/03/2026.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
