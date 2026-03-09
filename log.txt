@@ -2244,3 +2244,16 @@ Dados inseridos para a subprefeitura Santo Amaro.
 Buscando dados para a data 07/03/2026.
 Dados inseridos para a subprefeitura Casa Verde.
 Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
+Buscando dados para a data 08/03/2026.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Ipiranga.
+Dados inseridos para a subprefeitura Vila Mariana.
