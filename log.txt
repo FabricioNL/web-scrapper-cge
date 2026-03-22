@@ -2287,3 +2287,5 @@ Dados inseridos para a subprefeitura Mooca.
 Dados inseridos para a subprefeitura Campo Limpo.
 Buscando dados para a data 20/03/2026.
 Nao ha registros de alagamentos para a data 20/03/2026.
+Buscando dados para a data 21/03/2026.
+Nao ha registros de alagamentos para a data 21/03/2026.
