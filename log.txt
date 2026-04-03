@@ -2313,3 +2313,5 @@ Buscando dados para a data 01/04/2026.
 Dados inseridos para a subprefeitura São Mateus.
 Dados inseridos para a subprefeitura Vila Prudente.
 Dados inseridos para a subprefeitura Vila Prudente.
+Buscando dados para a data 02/04/2026.
+Nao ha registros de alagamentos para a data 02/04/2026.
