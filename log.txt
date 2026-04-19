@@ -2345,3 +2345,5 @@ Buscando dados para a data 16/04/2026.
 Nao ha registros de alagamentos para a data 16/04/2026.
 Buscando dados para a data 17/04/2026.
 Nao ha registros de alagamentos para a data 17/04/2026.
+Buscando dados para a data 18/04/2026.
+Nao ha registros de alagamentos para a data 18/04/2026.
