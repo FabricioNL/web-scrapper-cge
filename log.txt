@@ -2417,3 +2417,5 @@ Buscando dados para a data 24/05/2026.
 Nao ha registros de alagamentos para a data 24/05/2026.
 Buscando dados para a data 25/05/2026.
 Nao ha registros de alagamentos para a data 25/05/2026.
+Buscando dados para a data 26/05/2026.
+Nao ha registros de alagamentos para a data 26/05/2026.
