@@ -2435,3 +2435,5 @@ Buscando dados para a data 02/06/2026.
 Nao ha registros de alagamentos para a data 02/06/2026.
 Buscando dados para a data 03/06/2026.
 Nao ha registros de alagamentos para a data 03/06/2026.
+Buscando dados para a data 04/06/2026.
+Nao ha registros de alagamentos para a data 04/06/2026.
