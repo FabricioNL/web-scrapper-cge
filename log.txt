@@ -2473,3 +2473,20 @@ Buscando dados para a data 21/06/2026.
 Nao ha registros de alagamentos para a data 21/06/2026.
 Buscando dados para a data 22/06/2026.
 Nao ha registros de alagamentos para a data 22/06/2026.
+Buscando dados para a data 23/06/2026.
+Dados inseridos para a subprefeitura Freguesia do Ó.
+Dados inseridos para a subprefeitura Vila Maria/ Vila Guilherme.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Guaianases.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Vila Prudente.
+Dados inseridos para a subprefeitura Campo Limpo.
+Dados inseridos para a subprefeitura M'Boi Mirim.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Ipiranga.
