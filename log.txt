@@ -2520,3 +2520,5 @@ Buscando dados para a data 07/07/2026.
 Nao ha registros de alagamentos para a data 07/07/2026.
 Buscando dados para a data 08/07/2026.
 Nao ha registros de alagamentos para a data 08/07/2026.
+Buscando dados para a data 09/07/2026.
+Nao ha registros de alagamentos para a data 09/07/2026.
