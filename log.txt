@@ -2664,3 +2664,14 @@ Buscando dados para a data 08/09/2026.
 Nao ha registros de alagamentos para a data 08/09/2026.
 Buscando dados para a data 09/09/2026.
 Dados inseridos para a subprefeitura Vila Maria/ Vila Guilherme.
+Buscando dados para a data 10/09/2026.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Santo Amaro.
