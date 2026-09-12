@@ -2675,3 +2675,7 @@ Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Itaim Paulista.
 Dados inseridos para a subprefeitura Mooca.
 Dados inseridos para a subprefeitura Santo Amaro.
+Buscando dados para a data 11/09/2026.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Penha.
+Dados inseridos para a subprefeitura Santo Amaro.
