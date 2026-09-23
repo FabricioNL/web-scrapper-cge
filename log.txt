@@ -2734,3 +2734,13 @@ Buscando dados para a data 20/09/2026.
 Nao ha registros de alagamentos para a data 20/09/2026.
 Buscando dados para a data 21/09/2026.
 Nao ha registros de alagamentos para a data 21/09/2026.
+Buscando dados para a data 22/09/2026.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Cidade Ademar.
+Dados inseridos para a subprefeitura Santo Amaro.
