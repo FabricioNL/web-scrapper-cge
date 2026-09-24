@@ -2744,3 +2744,10 @@ Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Cidade Ademar.
 Dados inseridos para a subprefeitura Santo Amaro.
+Buscando dados para a data 23/09/2026.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Perus.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Sé.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
