@@ -2765,3 +2765,5 @@ Buscando dados para a data 29/09/2026.
 Nao ha registros de alagamentos para a data 29/09/2026.
 Buscando dados para a data 30/09/2026.
 Nao ha registros de alagamentos para a data 30/09/2026.
+Buscando dados para a data 01/10/2026.
+Nao ha registros de alagamentos para a data 01/10/2026.
