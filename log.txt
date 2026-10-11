@@ -2785,3 +2785,5 @@ Dados inseridos para a subprefeitura Sé.
 Dados inseridos para a subprefeitura Aricanduva/ Vila Formosa.
 Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura Ipiranga.
+Buscando dados para a data 10/10/2026.
+Dados inseridos para a subprefeitura Sé.
