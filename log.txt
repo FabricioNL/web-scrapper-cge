@@ -2787,3 +2787,9 @@ Dados inseridos para a subprefeitura M'Boi Mirim.
 Dados inseridos para a subprefeitura Ipiranga.
 Buscando dados para a data 10/10/2026.
 Dados inseridos para a subprefeitura Sé.
+Buscando dados para a data 11/10/2026.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Mooca.
