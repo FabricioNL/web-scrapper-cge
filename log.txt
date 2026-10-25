@@ -2847,3 +2847,11 @@ Buscando dados para a data 22/10/2026.
 Nao ha registros de alagamentos para a data 22/10/2026.
 Buscando dados para a data 23/10/2026.
 Dados inseridos para a subprefeitura Pinheiros.
+Buscando dados para a data 24/10/2026.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Pirituba/Jaraguá.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Itaquera.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Vila Mariana.
