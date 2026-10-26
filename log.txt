@@ -2855,3 +2855,13 @@ Dados inseridos para a subprefeitura Itaquera.
 Dados inseridos para a subprefeitura Itaquera.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Vila Mariana.
+Buscando dados para a data 25/10/2026.
+Dados inseridos para a subprefeitura Santana.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Mooca.
+Dados inseridos para a subprefeitura Penha.
