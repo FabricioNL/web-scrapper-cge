@@ -2874,3 +2874,5 @@ Nao ha registros de alagamentos para a data 28/10/2026.
 Buscando dados para a data 29/10/2026.
 Dados inseridos para a subprefeitura Mooca.
 Dados inseridos para a subprefeitura Mooca.
+Buscando dados para a data 30/10/2026.
+Nao ha registros de alagamentos para a data 30/10/2026.
