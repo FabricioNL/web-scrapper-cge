@@ -2919,3 +2919,10 @@ Dados inseridos para a subprefeitura Vila Prudente.
 Dados inseridos para a subprefeitura Vila Prudente.
 Buscando dados para a data 14/11/2026.
 Nao ha registros de alagamentos para a data 14/11/2026.
+Buscando dados para a data 15/11/2026.
+Dados inseridos para a subprefeitura Casa Verde.
+Dados inseridos para a subprefeitura Vila Maria/ Vila Guilherme.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaim Paulista.
+Dados inseridos para a subprefeitura Santo Amaro.
+Dados inseridos para a subprefeitura Santo Amaro.
