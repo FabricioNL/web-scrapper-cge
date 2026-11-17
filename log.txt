@@ -2926,3 +2926,5 @@ Dados inseridos para a subprefeitura Pinheiros.
 Dados inseridos para a subprefeitura Itaim Paulista.
 Dados inseridos para a subprefeitura Santo Amaro.
 Dados inseridos para a subprefeitura Santo Amaro.
+Buscando dados para a data 16/11/2026.
+Nao ha registros de alagamentos para a data 16/11/2026.
