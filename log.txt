@@ -2950,3 +2950,8 @@ Buscando dados para a data 20/11/2026.
 Nao ha registros de alagamentos para a data 20/11/2026.
 Buscando dados para a data 21/11/2026.
 Nao ha registros de alagamentos para a data 21/11/2026.
+Buscando dados para a data 22/11/2026.
+Dados inseridos para a subprefeitura Vila Maria/ Vila Guilherme.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Butantã.
+Dados inseridos para a subprefeitura Mooca.
