@@ -2985,3 +2985,9 @@ Dados inseridos para a subprefeitura Penha.
 Dados inseridos para a subprefeitura Penha.
 Buscando dados para a data 24/11/2026.
 Nao ha registros de alagamentos para a data 24/11/2026.
+Buscando dados para a data 25/11/2026.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Lapa.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Pinheiros.
+Dados inseridos para a subprefeitura Itaquera.
